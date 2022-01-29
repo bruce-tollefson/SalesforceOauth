@@ -1,0 +1,26 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "express-app for JWT Auth but may go through others as well in time",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.15"
+  }
+}

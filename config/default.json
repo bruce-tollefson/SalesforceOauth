@@ -1,0 +1,5 @@
+{
+  "loginURI": "https://login.salesforce.com",
+  "tokenURI": "https://login.salesforce.com/services/oauth2/token",
+  "client_id": "<INSERT THE CLIENT ID FROM CONNECTED APP>"
+}
