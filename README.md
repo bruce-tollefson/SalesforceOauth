@@ -11,6 +11,7 @@ Prereqs:
     </ul>
 <li>Change the authorization to Admin approved and add profiles</li>
 <li>Add Client Id to the config file</li>
+</ul>
 Requires node, to start use:<br>
 <code>
 node server.js
